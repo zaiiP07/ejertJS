@@ -1,0 +1,9 @@
+PROYECTO JAVASCRIPT CON BOOTSTRAP (VERSIÓN ORGANIZADA)
+
+- Abre index.html para ver el menú principal.
+- Los botones de cada ejercicio llevan al archivo HTML correspondiente.
+- En ejercicios con datos, llena los campos y presiona Ejecutar ejercicio.
+- El botón Menú principal regresa al inicio.
+- Anterior/Siguiente solo aparecen cuando existe un ejercicio anterior o siguiente.
+- Mantén todos los HTML y estilos.css juntos.
+- Bootstrap se carga desde CDN; se necesita internet para ver el diseño.

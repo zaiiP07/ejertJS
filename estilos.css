@@ -1,0 +1,14 @@
+
+:root{--navy:#173b57;--blue:#246b86;--cyan:#dff3f7;--ice:#f3f8fb;--text:#243746;}
+body{background:var(--ice);color:var(--text);min-height:100vh;}
+.navbar{background:var(--navy);}
+.navbar-brand,.navbar .nav-link{color:#fff!important;}
+.hero{background:linear-gradient(130deg,var(--navy),var(--blue));color:#fff;border-radius:20px;padding:2rem;}
+.section-title{border-left:5px solid #54b6c9;padding-left:.75rem;color:var(--navy);}
+.card{border:0;border-radius:16px;box-shadow:0 5px 18px rgba(23,59,87,.09);height:100%;}
+.card-header{background:var(--cyan);color:var(--navy);font-weight:700;border:0;border-radius:16px 16px 0 0!important;}
+.btn-primary{background:var(--blue);border-color:var(--blue);}
+.btn-primary:hover{background:var(--navy);border-color:var(--navy);}
+.form-control,.form-select{border-radius:10px;}
+.resultado{background:#edf8fa;border:1px solid #c5e5ec;border-radius:12px;padding:1rem;min-height:55px;line-height:1.8;overflow-wrap:anywhere;}
+footer{color:#6a8290;}
